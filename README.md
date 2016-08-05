@@ -1,3 +1,3 @@
 # hello-world
-first try
+first try!
 nothing changes.just for practising how to use github.
